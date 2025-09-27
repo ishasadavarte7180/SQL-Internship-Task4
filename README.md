@@ -62,5 +62,11 @@ GROUP BY p.ProductName;
 ```
 
 ---
+# 📂 Files in This Repository
+
+1. **Schema.sql** → Database schema (tables creation)
+2. **Insert_data.sql** → Insert sample data
+3. **Task4.sql** → Aggregate functions and grouping queries
+4. **README.md** → Documentation
 
 
